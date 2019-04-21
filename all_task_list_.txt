@@ -1,0 +1,73 @@
+all task list
+---------------
+
+
+---------------------------------------------------------
+2ND CLASS
+---------------------------------------------------------
+
+
+# 1
+write a php with html. get two variable. 1st name last name. Print them same line.with comment.
+
+# 2
+print all type of array , print all the string function, 
+
+# 3
+take your full name with comma, spilt all full name. Take "Coders Trust Success Story" as array and make them a full sentence.
+
+# 4
+take your full name with comma, spilt it and make it in one line string with space.
+
+# 5
+Homework: take 3 names , find the shortest name , if the name's length is odd, print the name+ you are different, if even print name + you are general.
+
+
+---------------------------------------------------------
+3RD CLASS
+---------------------------------------------------------
+
+# 6
+Make two functions that sum and subtract two numbers and print it.
+
+# 7
+Take a number and print it reversely till 0.
+
+# 8
+Find even numbers between 1 to 20.
+
+# 9
+Multiplication Table of 22 and 40
+
+
+---------------------------------------------------------
+4TH CLASS
+---------------------------------------------------------
+
+
+# 10 [assignment-1]
+Make a simple calculator with two input fields which can operate +,-,*,/ and print them. Use functions to do this. You can make a design if you want to
+
+# 11 [assignment-2]
+Multiple File Upload one time. (optional) (যারা পারবেন তারা বুঝাবেন :v  :v )
+
+# 12
+Write a program which convert Foot to Inch ( 12 inch = 1 foot) using function and print it
+
+#13
+Pass two values by get request and print their addition.
+
+#14
+pass username and password if match, show logged in.
+
+#15
+make a login form, Check all fields are filled and password is at least 6 length.
+
+#16
+Take a file. Check if it is a JPG image. check size. If it is 1mb or less. then upload it.
+
+#17
+Make a simple calculator with two input fields which can operate +,-,*,/ and print them. Use functions to do this. You can make a design if you want to
+
+#18
+Multiple File Upload one time. (optional) (যারা পারবেন তারা বুঝাবেন :v :v )
