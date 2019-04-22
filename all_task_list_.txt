@@ -65,9 +65,3 @@ make a login form, Check all fields are filled and password is at least 6 length
 
 #16
 Take a file. Check if it is a JPG image. check size. If it is 1mb or less. then upload it.
-
-#17
-Make a simple calculator with two input fields which can operate +,-,*,/ and print them. Use functions to do this. You can make a design if you want to
-
-#18
-Multiple File Upload one time. (optional) (যারা পারবেন তারা বুঝাবেন :v :v )
