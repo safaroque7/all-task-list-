@@ -43,24 +43,28 @@ Multiplication Table of 22 and 40
 ---------------------------------------------------------
 4TH CLASS
 ---------------------------------------------------------
+# 10 
+make a login form, Check all fields are filled and password is at least 6 length.
 
+# 11
+Take a file. Check if it is a JPG image. check size. If it is 1mb or less. then upload it.
 
-# 10 [assignment-1]
+# 12 [assignment-1]
 Make a simple calculator with two input fields which can operate +,-,*,/ and print them. Use functions to do this. You can make a design if you want to
 
-# 11 [assignment-2]
+# 13 [assignment-2]
 Multiple File Upload one time. (optional) (যারা পারবেন তারা বুঝাবেন :v  :v )
 
-# 12
+# 14
 Write a program which convert Foot to Inch ( 12 inch = 1 foot) using function and print it
 
-#13
+#15
 Pass two values by get request and print their addition.
 
-#14
+#16
 pass username and password if match, show logged in.
 
-#15
+#17
 make a login form, Check all fields are filled and password is at least 6 length.
 
 #16
